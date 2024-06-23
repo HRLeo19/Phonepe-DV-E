@@ -28,6 +28,13 @@ the dashboard consits of four buttons
 
 4. Key Points
 
+
+Here is shot video for reference
+
+https://github.com/HRLeo19/Phonepe-DV-E/assets/164137516/5f05f826-77fa-4fcf-a0f6-16fb2c8eee12
+
+
+
 Home
 About Phone Pe and website links
 
@@ -126,6 +133,9 @@ So how phonepe can be leading and Growth More
 
 8.Making efforts to gain attention and popularity in least effective areas.
 Etc.....
+
+
+Thanks....
 
 
 

@@ -17,7 +17,7 @@ mycursor.execute("use newphonepe")
 st.set_page_config(page_title="PhonePe DV&E",
                    page_icon="☔",
                    layout="wide")
-st.image("C:/Users/DELL XPS/Pictures/Screenshots/pp.png",width=1000)
+st.image("C:/Users/DELL XPS/Pictures/Screenshots/pp.png",width=1000) #local image
 st.title(":rainbow[PhonePe Data Visualization and Exploration]")
 
 with st.sidebar:
@@ -27,14 +27,14 @@ if select=="Home":
     st.title(":violet[ABOUT PHONEPE]")
     col1,col2=st.columns([2,4])
     with col1:
-        st.image("C:/Users/DELL XPS/Downloads/ppimg.jpeg")
+        st.image("C:/Users/DELL XPS/Downloads/ppimg.jpeg") #local
     with col2:
         st.link_button("PhonePe.com","http://www.phonepe.com/")
         st.write('''PhonePe is an Indian digital payments and financial services company headquartered in Bengaluru, Karnataka, India.
                   PhonePe was founded in December 2015,by Sameer Nigam, Rahul Chari and Burzin Engineer.The PhonePe app, based on the Unified Payments Interface (UPI),
                   went live in August 2016.The PhonePe app is accessible in 11 Indian languages.It enables users to perform various financial transactions such as sending and receiving money, 
                   recharging mobile and DTH, making utility payments, conducting in-store payments.''')
-    st.image("C:/Users/DELL XPS/Downloads/www.phonepe.com_about-us_.png")
+    st.image("C:/Users/DELL XPS/Downloads/www.phonepe.com_about-us_.png") #local
 
 #Aggregated transaction details
 
